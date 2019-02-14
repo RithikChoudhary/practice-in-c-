@@ -17,15 +17,7 @@ class file
 	}
 	void disp()
 	{
-		cout<<"my name is "<<name<<" and im "<<gender<<" ";
-		if(age>=18)
-		{
-			cout<<"and im eligible to vote";
-		}
-		else
-		{
-			cout<<"and im not eligble to vote";
-		}
+	
 	}
 };
 void main()
