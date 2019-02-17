@@ -12,7 +12,7 @@ class file
 		cin>>name;
 		cout<<"\nenter the gender of person\n";
 		cin>>gender;
-		cout<<"\nenter the age\n";
+		cout<<"\nenter the age\n";//comment
 		cin>>age;
 	}
 	void disp()
